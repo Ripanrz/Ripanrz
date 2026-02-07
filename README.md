@@ -69,7 +69,6 @@
   <br/>
   <img src="https://github.com/Ripanrz/Ripanrz/raw/output/github-contribution-grid-snake.svg" alt="snake contribution gif" width="100%"/>
 </div>
-
 ---
 
 ### ✍️ Latest Projects
