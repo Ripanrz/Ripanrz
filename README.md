@@ -61,13 +61,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github.com/Ripanrz/Ripanrz/raw/output/github-contribution-grid-snake.svg" alt="snake contribution gif" width="100%"/>
 </div>
 
 ---
