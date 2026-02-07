@@ -32,7 +32,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -69,26 +69,28 @@
   <br/>
   <img src="https://github.com/Ripanrz/Ripanrz/raw/output/github-contribution-grid-snake.svg" alt="snake contribution gif" width="100%"/>
 </div>
----
 
-### ✍️ Latest Projects
+---
 
 ### ✍️ Latest Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [![AI-HESS](https://img.shields.io/badge/AI--HESS-181717?style=flat-square&logo=github&logoColor=white)](LINK_REPO_AI_HESS) | Hybrid Energy Storage System berbasis AI (**Fuzzy & Neural Network**) untuk optimasi efisiensi energi. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e77600?style=flat-square&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [![Smart Composting](https://img.shields.io/badge/Smart_Composting-181717?style=flat-square&logo=github&logoColor=white)](LINK_REPO_COMPOSTING) | Sistem IoT untuk prediksi kematangan kompos menggunakan **Machine Learning TinyML** pada perangkat Edge. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/-TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+| [![Smart Composting](https://img.shields.io/badge/Smart_Composting-181717?style=flat-square&logo=github&logoColor=white)](LINK_REPO_COMPOSTING) | Sistem IoT untuk prediksi kematangan kompos menggunakan **Machine Learning** pada perangkat Edge. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/-TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
 | [![FreshLens AI](https://img.shields.io/badge/FreshLens_AI-181717?style=flat-square&logo=github&logoColor=white)](LINK_REPO_FRESHLENS) | Klasifikasi citra buah berbasis **MobileNetV2**. Mencapai **Akurasi 100%** & Loss 0.0007 dalam 5 epoch dengan pipeline augmentasi data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
 | [![Trading Scripts](https://img.shields.io/badge/Trading_Scripts-181717?style=flat-square&logo=github&logoColor=white)](LINK_REPO_TRADING) | Indikator kustom dan strategi algoritma untuk analisis pasar finansial di **TradingView**. | ![Pine Script](https://img.shields.io/badge/-Pine_Script-131722?style=flat-square&logo=tradingview&logoColor=white) |
 
 ---
 
 <div align="center">
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:ripanrediansyah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/LINKEDIN_KAMU/">
+  <a href="https://www.linkedin.com/in/ripan-ripan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ripanrz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
