@@ -20,12 +20,14 @@
 
 ### 🚀 About Me
 
-- 🔭 **Current Project:** Mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI).
-- 🌱 **Learning:** Mendalami **Edge AI**, **Digital Twin Technology**, dan **Value Investing**.
-- 💼 **Experience:** Proyek IoT prediksi kompos (Ngrok & Firebase) & scripting TradingView (Pine Script).
-- 💬 **Ask me about:** Data Sciences/Analyticals, IoT Architecture, Embedded C++, Python, dan Automations.
-- ⚡ **Personal Values:** Optimis, Ikhtiar, Tawakal (OIT).
-
+- 🔭 **Proyek Saat Ini:** Sedang mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI) — *Dalam tahap pengembangan*.
+- 🎯 **Fokus Keahlian:**
+  - 📊 **Data Science & Analytics**
+  - 🤖 **Systems Engineering** (IoT, Embedded Systems, & Intelligent Systems)
+  - ⚡ **Automation & Electrical Engineering**
+- 🌱 **Sedang Mempelajari:** Mendalami **Generative AI**, **Deep Learning**, **Neural Networks**, **Data Science**, serta **Edge AI**.
+- 💬 **Diskusi dengan saya:** Analisis Data, Arsitektur IoT, Embedded C++, Python, dan Otomasi Sistem.
+- ⚡ **Nilai Diri:** Optimis, Ikhtiar, Tawakal (OIT).
 </div>
 
 ---
