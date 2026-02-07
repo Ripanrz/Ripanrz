@@ -41,21 +41,38 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
-**IoT & Embedded**<br/>
+**IoT, Embedded & Electronics**<br/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 <img src="https://img.shields.io/badge/Espressif_ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/STM32_Cube-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32Cube"/>
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Proteus_Sim-181717?style=for-the-badge&logo=arduino&logoColor=white" alt="Proteus"/>
+<img src="https://img.shields.io/badge/Autodesk_Eagle-51BBFF?style=for-the-badge&logo=autodesk&logoColor=white" alt="Eagle"/>
 
-**Data Science & AI**<br/>
+**Industrial Automation & Robotics**<br/>
+<img src="https://img.shields.io/badge/PLC_Logic-005EB8?style=for-the-badge&logo=abbrobotics&logoColor=white" alt="PLC"/>
+<img src="https://img.shields.io/badge/Omron_CX--Programmer-005EB8?style=for-the-badge" alt="CX Programmer"/>
+<img src="https://img.shields.io/badge/Delta_ISPSoft-009639?style=for-the-badge" alt="ISPSoft"/>
+<img src="https://img.shields.io/badge/Delta_DOPSoft-009639?style=for-the-badge" alt="DOPSoft"/>
+<img src="https://img.shields.io/badge/Dobot_Studio-FF6600?style=for-the-badge" alt="DobotStudio"/>
+
+**Data Science, AI & Algorithms**<br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/IBM_SPSS-003399?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
 
-**Tools & Platforms**<br/>
+**Tools, Productivity & Research**<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Laragon-00758F?style=for-the-badge&logo=xampp&logoColor=white" alt="Laragon"/>
+<img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white" alt="Mendeley"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word"/>
 
 </div>
 
