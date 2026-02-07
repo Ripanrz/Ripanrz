@@ -4,9 +4,10 @@
 
 ### 🎓 Engineering Student & Tech Enthusiast
 
-<p align="center">
-  Saya mahasiswa semester 6 di <b>Universitas Pendidikan Indonesia</b>. <br/>
-  Fokus saya adalah menjembatani dunia fisik dan digital melalui <b>IoT, Embedded Systems,</b> dan <b>Data Science</b>.
+<p align="justify">
+  Saya mahasiswa semester 6 di <b>Universitas Pendidikan Indonesia</b>. 
+  Fokus utama saya adalah menjembatani dunia fisik dan digital melalui <b>IoT, Embedded Systems,</b> dan <b>Data Science</b>, 
+  serta mendalami bidang <b>Automation & Electrical Engineering</b> dengan selalu mengutamakan prinsip <b>Keselamatan dan Kesehatan Kerja (K3)</b> dalam setiap implementasi proyek.
 </p>
 
 <img src="https://img.shields.io/badge/Based_in-Indonesia-red?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
@@ -20,14 +21,14 @@
 
 ### 🚀 About Me
 
-- 🔭 **Proyek Saat Ini:** Sedang mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI) — *Dalam tahap pengembangan*.
-- 🎯 **Fokus Keahlian:**
+- 🔭 **Current Project:** Sedang mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI) — *Dalam tahap pengembangan*.
+- 🎯 **Domain Knowledge:**
   - 📊 **Data Science & Analytics**
   - 🤖 **Systems Engineering** (IoT, Embedded Systems, & Intelligent Systems)
   - ⚡ **Automation & Electrical Engineering**
-- 🌱 **Sedang Mempelajari:** Mendalami **Generative AI**, **Deep Learning**, **Neural Networks**, **Data Science**, serta **Edge AI**.
-- 💬 **Diskusi dengan saya:** Analisis Data, Arsitektur IoT, Embedded C++, Python, dan Otomasi Sistem.
-- ⚡ **Nilai Diri:** Optimis, Ikhtiar, Tawakal (OIT).
+- 🌱 **Currently Learning:** Mendalami **Generative AI**, **Deep Learning**, **Neural Networks**, **Data Science**, serta **Edge AI**.
+- 💬 **Ask me about:** Analisis Data, Arsitektur IoT, Embedded C++, Python, dan Otomasi Sistem.
+- ⚡ **Personal Values:** Optimis, Ikhtiar, Tawakal (OIT).
 </div>
 
 ---
