@@ -62,12 +62,9 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Ripanrz&theme=cobalt2&hide_border=false&hide_rank=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ripanrz&theme=cobalt2&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
