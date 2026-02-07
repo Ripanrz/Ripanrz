@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ripan;Engineering+Student+%40+UPI;IoT+%26+Embedded+Enthusiast;Data+Science+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=336699&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Ripan;Mechatronic+%26+AI+Student+%40+UPI;IoT+%26+Embedded+Enthusiast;Automation+%26+Electrical+Engineering;Data+Science+Explorer" alt="Typing SVG" />
 
 ### 🎓 Engineering Student & Tech Enthusiast
 
@@ -12,16 +12,18 @@
 <img src="https://img.shields.io/badge/Based_in-Indonesia-red?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
 <img src="https://img.shields.io/badge/Timezone-WIB_(UTC%2B7)-blueviolet?style=flat-square&logo=clock&logoColor=white" alt="Timezone">
 
+</div>
+
 ---
 
 <div align="left">
 
 ### 🚀 About Me
 
-- 🔭 **Current Project:** Mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI) & riset **Smart Composting** dengan Machine Learning.
+- 🔭 **Current Project:** Mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI).
 - 🌱 **Learning:** Mendalami **Edge AI**, **Digital Twin Technology**, dan **Value Investing**.
 - 💼 **Experience:** Proyek IoT prediksi kompos (Ngrok & Firebase) & scripting TradingView (Pine Script).
-- 💬 **Ask me about:** IoT Architecture, Embedded C++, Python, dan Automations.
+- 💬 **Ask me about:** Data Sciences/Analyticals, IoT Architecture, Embedded C++, Python, dan Automations.
 - ⚡ **Personal Values:** Optimis, Ikhtiar, Tawakal (OIT).
 
 </div>
@@ -59,13 +61,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github.com/USERNAME_KAMU/USERNAME_KAMU/blob/output/github-contribution-grid-snake.svg" alt="snake contribution gif" width="100%"/>
+  <img src="https://github.com/Ripanrz/Ripanrz/raw/output/github-contribution-grid-snake.svg" alt="snake contribution gif" width="100%"/>
 </div>
 
 ---
@@ -87,6 +89,4 @@
   <a href="https://www.linkedin.com/in/LINKEDIN_KAMU/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
 </div>
