@@ -79,9 +79,11 @@
 ---
 
 ### 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=Ripanrz&theme=cobalt2&hide_border=false&hide_rank=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ripanrz&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ripanrz&theme=cobalt2&hide_border=false" alt="Ripanrz's Streak" />
+  <br/>
+</div>
 
 <div align="center">
   <picture>
