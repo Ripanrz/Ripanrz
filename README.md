@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=336699&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Ripan;Mechatronic+%26+AI+Student+%40+UPI;IoT+%26+Embedded+Enthusiast;Automation+%26+Electrical+Engineering;Data+Science+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=336699&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+Ripan;Mechatronic+%26+AI+Student+%40+UPI;Data+Science+Explorer;IoT+%26+Embedded+Enthusiast;Automation+%26+Electrical+Engineering" alt="Typing SVG" />
 
 ### 🎓 Engineering Student & Tech Enthusiast
 
 <p align="justify">
-  Saya mahasiswa semester 6 di <b>Universitas Pendidikan Indonesia</b>. 
+  Saya mahasiswa semester 6 di <b>Universitas Pendidikan Indonesia</b>.
   Fokus utama saya adalah menjembatani dunia fisik dan digital melalui <b>IoT, Embedded Systems,</b> dan <b>Data Science</b>, 
   serta mendalami bidang <b>Automation & Electrical Engineering</b> dengan selalu mengutamakan prinsip <b>Keselamatan dan Kesehatan Kerja (K3)</b> dalam setiap implementasi proyek.
 </p>
