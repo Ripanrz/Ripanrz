@@ -95,16 +95,6 @@
 
 ---
 
-### ✍️ Latest Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [![AI-HESS](https://img.shields.io/badge/AI--HESS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ripanrz/AI-HESS) | Hybrid Energy Storage System berbasis AI (**Fuzzy & Neural Network**) untuk optimasi efisiensi energi. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e77600?style=flat-square&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [![Smart Composting](https://img.shields.io/badge/Smart_Composting-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/komposmonitor-sys/Monitoring-Kompos) | Sistem IoT untuk prediksi kematangan kompos menggunakan **Machine Learning** pada perangkat Edge. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/-TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
-| [![FreshLens AI](https://img.shields.io/badge/FreshLens_AI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ripanrz/FreshLens-AI-Klasifikasi-Buah-dengan-MobileNetV2) | Klasifikasi citra buah berbasis **MobileNetV2**. Mencapai **Akurasi 100%** & Loss 0.0007 dalam 5 epoch dengan pipeline augmentasi data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
-
----
-
 <div align="center">
   <a href="mailto:ripanrediansyah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
