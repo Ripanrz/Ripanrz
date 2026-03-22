@@ -5,8 +5,9 @@
 ### 🎓 Engineering Student & Tech Enthusiast
 
 <p align="center">
-Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.<br>
-  Fokus utamaku adalah <b>Data Science</b> dan <b>Systems Engineering (IoT & Embedded Systems)</b>.<br>Keahlian utama ini didukung oleh latar belakang <b>Automation & Electrical Engineering</b> sebagai ilmu pelengkap, dengan selalu mengedepankan prinsip <b>K3</b>.
+Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.
+<br>Fokus utamaku adalah <b>Data Science</b> dan <b>Systems Engineering (IoT & Embedded Systems)</b>.
+<br>Keahlian utama ini didukung oleh latar belakang <b>Automation & Electrical Engineering</b> sebagai ilmu pelengkap, dengan selalu mengedepankan prinsip Keselamatan dan Kesehatan Kerja <b>(K3)</b>.
 </p>
 
 <p align="center">
@@ -101,6 +102,7 @@ Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.<br>
 </div>
 
 ---
+### 🌐 Social Media Accounts
 
 <div align="center">
   <a href="mailto:ripanrediansyah@gmail.com">
