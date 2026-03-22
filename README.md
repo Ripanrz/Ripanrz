@@ -5,8 +5,8 @@
 ### 🎓 Engineering Student & Tech Enthusiast
 
 <p align="center">
-  Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.<br>
-  Fokus utamaku adalah menjembatani dunia fisik dan digital melalui <b>IoT, Embedded Systems,</b> dan <b>Data Science</b>,<br>serta mendalami bidang <b>Automation & Electrical Engineering</b> dengan mengutamakan prinsip <b>K3</b>.
+Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.<br>
+  Fokus utamaku adalah <b>Data Science</b> dan <b>Systems Engineering (IoT & Embedded Systems)</b>.<br>Keahlian utama ini didukung oleh latar belakang <b>Automation & Electrical Engineering</b> sebagai ilmu pelengkap, dengan selalu mengedepankan prinsip <b>K3</b>.
 </p>
 
 <p align="center">
