@@ -11,7 +11,7 @@ Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Indonesia-red?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Based_in-West Java, Indonesia-red?style=flat-square&logo=google-maps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Timezone-WIB_(UTC%2B7)-blueviolet?style=flat-square&logo=clock&logoColor=white" alt="Timezone">
 </p>
 
