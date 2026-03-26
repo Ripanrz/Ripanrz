@@ -116,8 +116,7 @@ Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&theme=cobalt2&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="Ripanrz's GitHub Stats" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ripanrz&theme=cobalt2&hide_border=false" alt="Ripanrz's Streak" width="32%" />
-</div>
+  <img src="https://streak-stats.demolab.com/?user=Ripanrz&theme=cobalt2&hide_border=false" alt="Ripanrz's Streak" width="32%" />
 
 <br/>
 
