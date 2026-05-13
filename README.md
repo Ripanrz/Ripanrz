@@ -114,7 +114,7 @@ Mahasiswa semester 6 <b>Universitas Pendidikan Indonesia</b>.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="80%" />
+  <!-- <img src="github-metrics.svg" alt="GitHub Metrics" width="80%" /> -->
   <img src="https://streak-stats.demolab.com/?user=Ripanrz&theme=cobalt2&hide_border=false" alt="Ripanrz's Streak" width="80%" />
 
 <br/>
