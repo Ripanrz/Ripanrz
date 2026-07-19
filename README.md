@@ -5,9 +5,9 @@
 ### 🎓 Engineering Student & Tech Enthusiast
 
 <p align="center">
-Mahasiswa semester (7) akhir <b>Universitas Pendidikan Indonesia</b>.
-<br>Fokus utamaku adalah <b>Data Science</b> dan <b>Systems Engineering (IoT & Embedded Systems)</b>.
-<br>Keahlian utama ini didukung oleh latar belakang <b>Automation & Electrical Engineering</b> sebagai ilmu pelengkap, dengan selalu mengedepankan prinsip Keselamatan dan Kesehatan Kerja <b>(K3)</b>.
+  Mahasiswa Tingkat Akhir Jurusan <b>Mekatronika dan Kecerdasan Buatan</b> di <b>Universitas Pendidikan Indonesia</b>.
+  <br>Berfokus pada integrasi antara <b>Data Science</b> dan <b>Systems Engineering (IoT & Embedded Systems)</b>.
+  <br>Keahlian inti ini diperkuat oleh fondasi <b>Automation & Electrical Engineering</b> dengan komitmen penuh terhadap prinsip Keselamatan dan Kesehatan Kerja <b>(K3)</b>.
 </p>
 
 <p align="center">
