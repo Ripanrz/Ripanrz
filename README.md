@@ -21,9 +21,6 @@
 
 ### 🚀 About Me
 
-- 🔭 **Current Projects:**
-  - Mengembangkan **AI-HESS** (Sistem Penyimpanan Energi Hibrida berbasis AI).
-  - Menyusun riset tentang **Digital Twin technology** untuk Battery Management Systems.
 - 🎯 **Domain Knowledge:**
   - Data Science & Analytics
   - Systems Engineering (IoT & Intelligent Systems)
