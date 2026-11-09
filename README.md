@@ -144,7 +144,7 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
 
 <div align="center">
   <a href="https://github.com/Ripanrz?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub profile statistics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub profile statistics" />
   </a>
   <a href="https://github.com/Ripanrz?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Most used programming languages" />
