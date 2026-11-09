@@ -1,8 +1,10 @@
-<div align="center">
-
-  <img src="assets/anime-study-banner.svg" alt="Anime scene of two students studying beneath an autumn maple tree at sunset, with falling leaves" width="100%" />
-
+<div align="center" style="line-height:0">
+  <img src="assets/anime-banner-strip-1.jpg" alt="Anime banner: Ripanrz and two students studying beneath an autumn maple tree at sunset" width="100%" />
+  <img src="assets/anime-banner-strip-2.jpg" alt="" width="100%" />
+  <img src="assets/anime-banner-strip-3.jpg" alt="" width="100%" />
+  <img src="assets/anime-banner-strip-4.jpg" alt="" width="100%" />
 </div>
+<img src="assets/anime-leaves.svg" alt="Animated falling autumn leaves" width="100%" />
 
 ---
 
