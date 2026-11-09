@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/samurai-pixel.gif" alt="Samurai pixel-art bergerak dengan latar malam Jepang" width="640" />
+  <img src="assets/samurai.svg" alt="Samurai pixel-art bergerak dengan latar malam Jepang" width="640" />
 
   <h1>Halo, saya Ripan 👋</h1>
   <p><strong>AI Engineer · Data Scientist · Mechatronics & Embedded Systems</strong></p>
