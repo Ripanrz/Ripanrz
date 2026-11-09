@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/study-under-tree.jpg" alt="Dua mahasiswa belajar dan beristirahat di bawah pohon dengan dedaunan musim gugur" width="100%" />
+  <img src="assets/study-under-tree.svg" alt="Two university students study and relax beneath a leafy tree as autumn leaves drift in the breeze" width="100%" />
 
   <h1>Hi, I'm Ripan 👋</h1>
   <p><strong>Mechatronics & AI Engineering · Data Science · Embedded Systems</strong></p>
