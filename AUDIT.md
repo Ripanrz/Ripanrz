@@ -1,54 +1,52 @@
-# Repository Audit — Ripanrz/Ripanrz
+# Repository & Profile Review — Ripanrz/Ripanrz
 
-**Audit date:** 9 November 2026  
-**Repository type:** GitHub profile repository  
-**Review scope:** README structure and claims, linked assets, profile statistics, technology taxonomy, and GitHub Actions workflow configuration.
+**Review date:** 9 November 2026  
+**Scope:** GitHub profile README, hero illustration assets, technology taxonomy, project summaries, contributor statistics, and contact section.
 
 ## Executive Summary
 
-The repository's purpose is professional presentation. A good profile README should make the owner's engineering domains, evidence of work, toolchain, and contribution activity easy to scan without turning the page into an unstructured wall of badges.
+The profile has been revised around the anime banner selected by the repository owner. The previous simplified vector drawing was retired because it did not match the intended cinematic art direction.
 
-The first improvement pass refreshed the visual hierarchy and Actions configuration. This second pass restores the fuller software and hardware inventory, brings back contribution and statistics panels, adds project-level technical summaries, and replaces the pixel-art concept with an animated anime-inspired study scene.
+The new hero uses the supplied anime scene as its visual source, split into lightweight local image strips and composed in an SVG wrapper. The wrapper adds a subtle falling-leaf animation and respects the browser's `prefers-reduced-motion` setting.
 
-## Audit Findings & Remediation
+## Changes
 
-| ID | Area | Finding | Remediation |
-|---|---|---|---|
-| R-01 | Information architecture | Earlier README was badge-heavy and gave limited context for the tools. | Grouped software by engineering function and hardware by platform category. |
-| R-02 | Evidence | Tools were listed without separating software, physical platforms, and simulation tools. | Added distinct software and hardware tables; marked DE10-Nano as an FPGA target, not a claim of physical board access. |
-| R-03 | Project evidence | Profile had limited technical detail about projects. | Added summaries for SECURE-TINY, COCOCHIRP, MAMBA, and OCE Agent. |
-| R-04 | Contributor visibility | Contribution snake was present, while other profile statistics were minimal. | Restored contribution snake and added GitHub stats, language, and streak cards. |
-| R-05 | Visual identity | Pixel samurai conflicted with the requested relaxed study scene. | Replaced the hero visual with a self-contained animated SVG scene of two university students studying and taking a break under a tree, with drifting autumn leaves and reduced-motion support. |
-| R-06 | Language consistency | Indonesian and English phrasing lacked a consistent editorial pattern. | Used Indonesian for narrative context and English for established engineering terminology and section labels. |
+| Area | Change |
+|---|---|
+| Hero banner | Replaced the simplified cartoon SVG with the chosen anime scene: two students studying beneath an autumn maple tree at sunset. |
+| Motion | Added gentle leaf movement as an overlay; the underlying illustration remains stable to avoid distracting motion. |
+| Project layout | Replaced the old `Selected Projects & Engineering Work` heading with exactly one `Featured Projects` section. |
+| Technology taxonomy | Kept software/frameworks in Technology Stack and physical platforms in Hardware, Devices & Platforms. |
+| Duplicate inventory | Removed the repeated FPGA toolchain row and the separate hardware-simulation tools line because those tools are already listed in Technology Stack. |
+| GitHub activity | Kept profile statistics, top languages, and the contribution snake; removed overlapping streak and extra metrics panels. |
+| Contact | Replaced plain-text contact links with exactly four badges: Email, LinkedIn, Instagram, and GitHub. |
+| Language | Indonesian is used for profile narrative; standard English engineering terms remain where they are the accepted technical vocabulary. |
 
-## Workflow & Automation Notes
+## Technical Content
 
-The contribution snake workflow and metrics workflow were previously updated to use pinned action commit SHAs, explicit repository write permissions, concurrency controls, and job timeouts. Their configuration can be reviewed in:
+Featured projects are summarized once each:
 
-- .github/workflows/main.yml
-- .github/workflows/metrics.yml
+- **SECURE-TINY:** ASCON-AEAD128, RTL design, datapath/control FSM, buffering, trusted vectors, and FPGA target.
+- **COCOCHIRP:** Active acoustic-chirp, signal processing, Physics-Informed TinyML, and edge inference for non-destructive coconut assessment.
+- **Project MAMBA:** Black-box test design, Equivalence Partitioning, Boundary Value Analysis, Data Segregation, UAT, BRD, and FSD.
+- **Project OCE Agent:** Agentic AI workflow orchestration and conversational-memory tooling.
 
-The metrics workflow still depends on the repository secret METRICS_TOKEN. Secret values are not inspected during this review.
+The hardware section distinguishes microcontrollers, single-board computers, PLC/controller platforms, robotics hardware, the DE10-Nano FPGA target, and instrumentation. Tools such as Quartus Prime, Yosys, LibreLane, Proteus, FluidSIM, CX-One, ISPSoft, DOPSoft, and DobotStudio are kept in the software/toolchain inventory, not duplicated as physical hardware.
 
-## Validation Checklist
+## Validation
 
-- [x] README section hierarchy and language consistency reviewed.
-- [x] Software and hardware/platform inventories separated.
-- [x] Project descriptions checked against available project context.
-- [x] Contribution snake retained.
-- [x] Dynamic GitHub profile statistics and language cards added.
-- [x] DE10-Nano described as a target platform; no physical-board ownership claim.
-- [ ] Confirm external stats cards render on GitHub after merge.
-- [ ] Confirm scheduled and manual GitHub Actions runs succeed.
-- [ ] Confirm metrics generation succeeds with the existing METRICS_TOKEN.
+- [x] README has one `Featured Projects` heading.
+- [x] Old `Selected Projects & Engineering Work` heading is absent.
+- [x] Contact section contains four badge links and no plain-text duplicate list.
+- [x] README no longer points to the retired simplified `study-under-tree.svg`.
+- [x] FPGA/EDA toolchain is not repeated in the hardware table.
+- [x] The duplicate simulation-tools line below the hardware table is removed.
+- [x] Dynamic GitHub profile stats, top-language card, and contribution snake remain.
+- [x] New hero asset uses local repository image strips, not third-party image hosting.
+- [x] Animated SVG includes a reduced-motion fallback.
 
 ## Limitations
 
-This is a static repository and presentation review, not a penetration test, full application security assessment, or verification of every listed tool at a specific proficiency level. Third-party statistics providers can be unavailable or cached. Hardware entries describe platforms or ecosystems used, studied, or targeted in project work; they should not be interpreted as an inventory of personally owned devices.
+This is a static content and presentation review. It is not a penetration test, accessibility audit, or end-to-end validation of every external statistics provider. GitHub profile cards and contribution graphics depend on third-party services and GitHub Actions availability. The visual result should be checked in GitHub's rendered README because SVG image-loading policies can differ from local browser previews.
 
-## Recommendations
-
-1. Add repository links, architecture diagrams, and reproducible demos to the featured projects.
-2. Add measurable outcomes where evidence exists: accuracy, latency, memory footprint, test coverage, throughput, or time saved.
-3. Keep the hardware inventory precise by distinguishing hands-on devices, simulation environments, and target boards.
-4. Enable Dependabot for GitHub Actions and review pinned action updates periodically.
+Hardware entries distinguish platforms or targets from personally owned devices. A target-platform mention should not be interpreted as proof that the physical board was available for hands-on testing.
