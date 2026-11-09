@@ -8,7 +8,7 @@
 
 The repository's purpose is professional presentation. A good profile README should make the owner's engineering domains, evidence of work, toolchain, and contribution activity easy to scan without turning the page into an unstructured wall of badges.
 
-The first improvement pass refreshed the visual hierarchy and Actions configuration. This second pass restores the fuller software and hardware inventory, brings back contribution and statistics panels, adds project-level technical summaries, and replaces the pixel-art concept with an anime-inspired study scene.
+The first improvement pass refreshed the visual hierarchy and Actions configuration. This second pass restores the fuller software and hardware inventory, brings back contribution and statistics panels, adds project-level technical summaries, and replaces the pixel-art concept with an animated anime-inspired study scene.
 
 ## Audit Findings & Remediation
 
@@ -18,7 +18,7 @@ The first improvement pass refreshed the visual hierarchy and Actions configurat
 | R-02 | Evidence | Tools were listed without separating software, physical platforms, and simulation tools. | Added distinct software and hardware tables; marked DE10-Nano as an FPGA target, not a claim of physical board access. |
 | R-03 | Project evidence | Profile had limited technical detail about projects. | Added summaries for SECURE-TINY, COCOCHIRP, MAMBA, and OCE Agent. |
 | R-04 | Contributor visibility | Contribution snake was present, while other profile statistics were minimal. | Restored contribution snake and added GitHub stats, language, and streak cards. |
-| R-05 | Visual identity | Pixel samurai conflicted with the requested relaxed study scene. | Replaced the hero visual with a custom anime-inspired illustration of two students studying and resting beneath a tree. |
+| R-05 | Visual identity | Pixel samurai conflicted with the requested relaxed study scene. | Replaced the hero visual with a self-contained animated SVG scene of two university students studying and taking a break under a tree, with drifting autumn leaves and reduced-motion support. |
 | R-06 | Language consistency | Indonesian and English phrasing lacked a consistent editorial pattern. | Used Indonesian for narrative context and English for established engineering terminology and section labels. |
 
 ## Workflow & Automation Notes
