@@ -116,6 +116,15 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+### FPGA, RTL & EDA Toolchain
+
+<p>
+  <img src="https://img.shields.io/badge/SystemVerilog-DAE1C2?style=flat-square&logo=verilog&logoColor=black" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Quartus Prime" />
+  <img src="https://img.shields.io/badge/Yosys-6B4FBB?style=flat-square&logo=yosys&logoColor=white" alt="Yosys" />
+  <img src="https://img.shields.io/badge/LibreLane-334155?style=flat-square&logo=github&logoColor=white" alt="LibreLane" />
+</p>
+
 ### Industrial Automation, Robotics & Engineering Software
 
 <p>
@@ -124,6 +133,7 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
   <img src="https://img.shields.io/badge/DOPSoft%20(Delta)-004A99?style=flat-square&logo=delta&logoColor=white" alt="DOPSoft (Delta)" />
   <img src="https://img.shields.io/badge/Festo%20FluidSIM-00A5E3?style=flat-square&logo=festo&logoColor=white" alt="Festo FluidSIM" />
   <img src="https://img.shields.io/badge/DobotStudio-FF6600?style=flat-square&logo=robot&logoColor=white" alt="DobotStudio" />
+  <img src="https://img.shields.io/badge/UiPath%20Studio-FA4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath Studio" />
   <img src="https://img.shields.io/badge/Proteus-181717?style=flat-square&logo=circuitverse&logoColor=white" alt="Proteus" />
   <img src="https://img.shields.io/badge/Autodesk%20Eagle-51BBFF?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Eagle" />
 </p>
@@ -146,6 +156,7 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
 | **Industrial controller** | Siemens PLC, Omron PLC, Delta PLC | Control logic, automation workflow, dan HMI integration melalui ecosystem software terkait. |
 | **Robotics platform** | Dobot robotic arm | Robot programming, motion task, dan automation prototyping menggunakan DobotStudio. |
 | **FPGA target** | Intel DE10-Nano | Target platform untuk desain RTL SECURE-TINY; simulasi dan verifikasi dapat dilakukan sebelum deployment ke board fisik. |
+| **Digital design toolchain** | Quartus Prime, Yosys, LibreLane | RTL synthesis, netlist flow, serta eksplorasi digital implementation dan ASIC/FPGA design flow. |
 | **Instrumentation** | Sensors & actuators | Akuisisi sinyal, monitoring, dan interaksi dengan physical process. |
 
 ### Hardware Design & Simulation Tools
@@ -158,7 +169,8 @@ Proteus · Autodesk Eagle · Festo FluidSIM · DobotStudio · Omron CX-One · De
 - **Agentic AI:** tool orchestration, conversational memory, dan reliable multi-step workflows.
 - **FPGA & Embedded Security:** RTL architecture, verification strategy, dan implementasi kriptografi ringan.
 - **Industrial IoT & OT:** sensor connectivity, PLC integration, industrial protocols, dan edge-to-platform architecture.
-- **Robotics & Intelligent Automation:** ROS 2, simulation, control, serta workflow automation.
+- **Robotics & Simulation:** ROS 2 dan Webots untuk robot modeling, simulated sensors, node-based integration, serta motion and control.
+- **Industrial Connectivity:** OPC UA, Modbus RTU/TCP, MQTT, edge gateway, dan PLC-to-platform telemetry sebagai area pendalaman.
 
 ## GitHub Activity & Statistics
 
