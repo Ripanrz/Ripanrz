@@ -28,26 +28,6 @@ Implementasi **ASCON-AEAD128** dalam RTL dengan fokus pada datapath, control FSM
 
 SystemVerilog · RTL Design · ASCON-AEAD128 · Verification · FPGA
 
-### COCOCHIRP — Non-Destructive Coconut Assessment
-
-Riset integrasi **active acoustic-chirp** dan **Physics-Informed TinyML** pada edge microcontroller untuk mengestimasi ketebalan daging, volume air, dan total dissolved solids (TDS) kelapa muda.
-
-Acoustic Signal Processing · TinyML · Edge AI · Embedded Systems
-
-### Project MAMBA — System Analysis, Testing & Delivery
-
-Mendukung quality engineering melalui black-box test design menggunakan **Equivalence Partitioning**, **Boundary Value Analysis**, dan **Data Segregation**, serta fasilitasi UAT. Turut menyusun BRD dan FSD untuk menerjemahkan business workflows lintas divisi menjadi technical specifications.
-
-Software Testing · UAT · BRD/FSD · Docker · Workflow Analysis
-
-### Project OCE Agent — Agentic AI Workflow
-
-Eksplorasi orkestrasi workflow berbasis agentic AI untuk mendukung proses analisis dan pelaporan. Aktivitas meliputi penggunaan CLI coding agent, pengelolaan conversational memory, dan dokumentasi workflow.
-
-Agentic AI · LLM Workflow · Hermes · Claude Code · Obsidian
-
-> Project descriptions summarize work and research activities; implementation depth and hardware availability vary by project.
-
 ## Technology Stack
 
 Daftar berikut merangkum software, framework, development tools, dan engineering platforms yang pernah digunakan atau dieksplorasi dalam pekerjaan, pembelajaran, dan proyek. Daftar ini bukan klaim bahwa seluruh tools memiliki tingkat kemahiran yang sama.
