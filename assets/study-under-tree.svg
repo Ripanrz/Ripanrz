@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+<title id="title">A quiet study under the tree</title>
+<desc id="desc">An anime-inspired illustration of two university students studying and taking a quiet break beneath a leafy tree while autumn leaves drift in the breeze.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#dcebf1"/><stop offset=".68" stop-color="#f5e8d2"/><stop offset="1" stop-color="#f3d5b7"/></linearGradient>
+  <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8fae79"/><stop offset="1" stop-color="#597b5b"/></linearGradient>
+  <linearGradient id="tree" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#694537"/><stop offset=".5" stop-color="#95644a"/><stop offset="1" stop-color="#55392f"/></linearGradient>
+  <linearGradient id="blanket" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e5a58b"/><stop offset="1" stop-color="#bd7774"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7595ad"/><stop offset="1" stop-color="#46647d"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e4a5a0"/><stop offset="1" stop-color="#c8797a"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+  <style>
+    .leaf{transform-box:fill-box;transform-origin:center;animation:fall 8s ease-in-out infinite}
+    .leaf.l2{animation-delay:-2.4s;animation-duration:9.5s}
+    .leaf.l3{animation-delay:-5.3s;animation-duration:7.2s}
+    .leaf.l4{animation-delay:-3.2s;animation-duration:10s}
+    .leaf.l5{animation-delay:-6s;animation-duration:8.6s}
+    .hair{stroke:#403b39;stroke-width:4;stroke-linejoin:round}
+    .line{stroke:#57473f;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+    .fine{stroke:#735a4e;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+    .cloud{animation:cloud 26s linear infinite}
+    .cloud.c2{animation-delay:-12s;animation-duration:34s}
+    .light{animation:glow 4s ease-in-out infinite alternate}
+    @keyframes fall{0%{transform:translate(0,-40px) rotate(0deg);opacity:0}12%{opacity:.95}55%{transform:translate(38px,125px) rotate(110deg)}100%{transform:translate(-12px,325px) rotate(250deg);opacity:0}}
+    @keyframes cloud{0%{transform:translateX(-60px)}100%{transform:translateX(1020px)}}
+    @keyframes glow{from{opacity:.25}to{opacity:.7}}
+    @media(prefers-reduced-motion:reduce){.leaf,.cloud,.light{animation:none!important}}
+  </style>
+</defs>
+
+<!-- warm late-afternoon sky -->
+<rect width="960" height="320" fill="url(#sky)"/>
+<circle cx="180" cy="70" r="38" fill="#fff0ce" opacity=".7"/>
+<circle class="light" cx="180" cy="70" r="58" fill="#fff0ce" filter="url(#soft)"/>
+<g class="cloud" fill="#fffaf0" opacity=".72"><ellipse cx="20" cy="76" rx="48" ry="14"/><ellipse cx="55" cy="67" rx="32" ry="20"/><ellipse cx="85" cy="77" rx="43" ry="13"/></g>
+<g class="cloud c2" fill="#fffaf0" opacity=".48"><ellipse cx="-30" cy="126" rx="38" ry="11"/><ellipse cx="0" cy="119" rx="25" ry="16"/><ellipse cx="28" cy="127" rx="34" ry="10"/></g>
+
+<!-- distant hills and grass -->
+<path d="M0 202Q120 145 260 184T520 177T780 171T960 184V320H0Z" fill="#a9bd91"/>
+<path d="M0 229Q170 189 310 217T590 207T960 216V320H0Z" fill="#819d75"/>
+<rect y="234" width="960" height="86" fill="url(#grass)"/>
+<g fill="#c5d59e" opacity=".65"><path d="M34 252l6-15 5 15m17 13 6-18 7 18m165-12 5-15 5 15m652 1 6-17 5 17m-48 10 5-13 5 13"/></g>
+<g stroke="#496b50" stroke-width="2" opacity=".55"><path d="M0 266q18-12 34 0m35 17q20-16 39 0m710-5q20-17 39 0m42 7q16-12 32 0"/></g>
+
+<!-- large tree on the right -->
+<path d="M760 320Q774 253 755 206Q733 167 745 122Q760 81 752 38L798 30Q804 95 820 133Q840 171 826 214Q814 269 851 320Z" fill="url(#tree)" class="line"/>
+<path d="M787 316Q786 251 800 202Q814 162 785 121Q772 97 775 48" fill="none" stroke="#c28b66" stroke-width="7" opacity=".6"/>
+<path d="M798 155Q845 107 892 90M789 128Q731 92 704 68M817 202Q872 171 923 176" fill="none" stroke="#6d4939" stroke-width="16" stroke-linecap="round"/>
+<g>
+  <path d="M654 101Q624 58 672 36Q693 -3 743 18Q779 -12 821 16Q869 4 883 49Q929 55 921 101Q947 135 908 154Q889 190 847 173Q806 204 773 174Q729 192 708 158Q662 161 654 101Z" fill="#658b63"/>
+  <path d="M690 76Q675 43 715 27Q749 2 778 35Q808 1 839 35Q880 19 891 64Q920 91 884 122Q862 159 828 136Q798 171 771 139Q738 164 718 127Q682 127 690 76Z" fill="#7da273"/>
+  <g fill="#a8bb7e"><ellipse cx="722" cy="47" rx="25" ry="13"/><ellipse cx="775" cy="25" rx="28" ry="12"/><ellipse cx="842" cy="49" rx="26" ry="13"/><ellipse cx="887" cy="91" rx="22" ry="11"/><ellipse cx="752" cy="119" rx="25" ry="12"/><ellipse cx="826" cy="147" rx="25" ry="12"/></g>
+  <g fill="#4f7858"><ellipse cx="689" cy="104" rx="17" ry="11"/><ellipse cx="802" cy="78" rx="25" ry="12"/><ellipse cx="864" cy="123" rx="20" ry="13"/><ellipse cx="795" cy="166" rx="18" ry="10"/></g>
+</g>
+
+<!-- drifting autumn leaves -->
+<g class="leaf" fill="#d88d55"><path d="M312 24q18-16 23 4q-11 18-23-4Z"/></g>
+<g class="leaf l2" fill="#d3a45d"><path d="M460 6q19-13 21 8q-13 16-21-8Z"/></g>
+<g class="leaf l3" fill="#bb7651"><path d="M603 42q17-17 24 2q-9 18-24-2Z"/></g>
+<g class="leaf l4" fill="#e1b76a"><path d="M730 16q18-14 22 6q-13 16-22-6Z"/></g>
+<g class="leaf l5" fill="#c87955"><path d="M140 88q15-15 21 3q-10 17-21-3Z"/></g>
+<g class="leaf l2" fill="#dca36a"><path d="M870 18q15-13 20 5q-11 14-20-5Z"/></g>
+
+<!-- shaded study spot -->
+<ellipse cx="437" cy="282" rx="240" ry="24" fill="#3d6148" opacity=".24"/>
+<path d="M210 252Q224 235 254 239H615Q648 240 660 259L645 301Q630 312 596 309H251Q218 308 203 289Z" fill="url(#blanket)" stroke="#895b55" stroke-width="3"/>
+<path d="M231 258q80 18 159 0t240 2M220 282q90 17 181 0t217 3" fill="none" stroke="#f3c2a6" stroke-width="4" opacity=".75"/>
+<path d="M249 250q-12 22 3 47m355-48q18 25 5 50" fill="none" stroke="#a75f5b" stroke-width="3"/>
+
+<!-- boy, sitting casually with a laptop -->
+<g>
+  <!-- legs and sneakers -->
+  <path d="M337 236Q363 230 390 244L424 260Q436 270 421 279L373 271Q344 265 322 254Z" fill="#334b62" class="line"/>
+  <path d="M403 257q25-2 38 10q8 10-4 16l-29-4-12-8Z" fill="#f4eee3" class="line"/>
+  <path d="M322 245q-6 17-24 25l-36 4q-15 0-12-11q12-14 35-24l21-10Z" fill="#334b62" class="line"/>
+  <path d="M264 264q21-8 40 1q8 9-4 16l-37 2q-17-5 1-19Z" fill="#f4eee3" class="line"/>
+  <!-- torso -->
+  <path d="M322 153Q342 140 364 151Q391 163 395 207L390 248Q355 263 315 244L300 201Q300 174 322 153Z" fill="url(#blue)" class="line"/>
+  <path d="M329 157q19 12 38 0m-39 36q21 13 46 7" fill="none" stroke="#9db5c2" stroke-width="3" opacity=".7"/>
+  <!-- neck and face -->
+  <path d="M335 143v20q14 13 28-1v-24Z" fill="#d99f7d" class="line"/>
+  <ellipse cx="351" cy="120" rx="31" ry="38" fill="#e9b996" class="line"/>
+  <path d="M320 120Q307 84 335 80Q358 62 380 82Q396 99 381 129L372 104Q355 113 339 105Q334 120 320 120Z" fill="#3f3735" class="hair"/>
+  <path d="M323 105Q336 91 347 95Q367 101 382 92" fill="none" stroke="#65524a" stroke-width="4"/>
+  <path d="M341 125q5 5 9 0m15 0q5 5 9 0" fill="none" stroke="#513d39" stroke-width="3" stroke-linecap="round"/>
+  <path d="M355 136q7 5 13-1" fill="none" stroke="#b96e65" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M320 121q-12-4-8 10q3 8 12 4m67-14q12-4 8 10q-3 8-12 4" fill="#e9b996" class="line"/>
+  <!-- relaxed arm -->
+  <path d="M389 178Q409 190 422 215L445 224Q455 231 446 242Q437 248 425 239L395 224Q379 207 376 190Z" fill="#e9b996" class="line"/>
+  <!-- hand on laptop edge -->
+  <path d="M437 232q9-8 17 0q7 8-2 13q-9 5-16-4" fill="#e9b996" class="fine"/>
+</g>
+
+<!-- girl, leaning in with an open book -->
+<g>
+  <!-- skirt and legs -->
+  <path d="M510 223Q536 218 563 235L584 263Q573 279 552 278L511 260Q496 245 510 223Z" fill="#bd7777" class="line"/>
+  <path d="M526 259q-12 12-31 16l-32-4q-13-5-3-14l35-11Z" fill="#e9b996" class="line"/>
+  <path d="M555 263q8 15 28 19l28-3q13-7 2-15l-34-11Z" fill="#e9b996" class="line"/>
+  <path d="M466 268q22-10 38-1q8 11-7 16h-31q-16-5 0-15Zm119 2q20-8 34 2q9 10-5 15h-29q-16-6 0-17Z" fill="#f5eee3" class="line"/>
+  <!-- torso -->
+  <path d="M506 156Q529 139 556 154Q581 170 579 218L568 248Q535 257 501 238L489 198Q483 174 506 156Z" fill="url(#pink)" class="line"/>
+  <path d="M515 157q19 16 39 0m-33 31q22 10 43 0" fill="none" stroke="#f3c1b1" stroke-width="3"/>
+  <!-- collar and neck -->
+  <path d="M520 142v20q14 14 28 0v-25Z" fill="#e9b996" class="line"/>
+  <path d="M517 156l15 17 13-17 13 17 13-15" fill="#f3ddd0" stroke="#8b5c5c" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- face -->
+  <ellipse cx="535" cy="121" rx="30" ry="37" fill="#f0c4a3" class="line"/>
+  <path d="M505 121Q493 88 519 79Q548 58 569 83Q585 103 566 133L562 100Q540 110 522 98Q518 118 505 121Z" fill="#493b3a" class="hair"/>
+  <path d="M509 102Q493 117 502 146M562 97Q581 118 571 142" fill="none" stroke="#493b3a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M522 124q5 5 9 0m16 0q5 5 9 0" fill="none" stroke="#57413b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M537 137q7 5 13-1" fill="none" stroke="#c47d73" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M506 122q-12-4-9 10q3 8 11 5m56-16q12-4 9 10q-3 8-11 5" fill="#f0c4a3" class="fine"/>
+  <!-- arm holding book -->
+  <path d="M500 183Q480 196 468 218L442 227Q433 235 440 245Q450 251 462 242L496 229Q516 211 519 192Z" fill="#f0c4a3" class="line"/>
+  <path d="M566 183Q584 194 590 216L612 229Q622 237 614 246Q604 251 593 241L566 228Q550 207 550 190Z" fill="#f0c4a3" class="line"/>
+</g>
+
+<!-- laptop in front of the boy -->
+<g>
+  <path d="M345 205Q346 197 356 197H432Q442 198 443 208L439 256H350Z" fill="#d5e1e4" stroke="#596b73" stroke-width="3"/>
+  <path d="M356 207h77v39h-77Z" fill="#76969a"/>
+  <path d="M349 254h94l17 8q-1 7-13 7h-91q-12-1-7-8Z" fill="#e8e3d8" class="line"/>
+  <path d="M382 257h27" stroke="#91a0a0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M363 217q12-9 23-2" fill="none" stroke="#a8c7c4" stroke-width="3" opacity=".7"/>
+</g>
+
+<!-- open study book and mug -->
+<g>
+  <path d="M461 217Q482 208 505 218L508 256Q486 246 464 260Z" fill="#f7edda" class="line"/>
+  <path d="M508 218Q531 208 552 218L549 260Q530 246 508 256Z" fill="#fff7e8" class="line"/>
+  <path d="M469 226q15-6 28 0m-28 8q15-6 28 0m-28 8q12-5 25-1m24-7q13-6 25-1m-25 9q13-5 24 0" fill="none" stroke="#c4a994" stroke-width="2"/>
+  <path d="M594 244h23l-2 22q-10 10-20 0Z" fill="#f2d8b7" class="line"/>
+  <path d="M617 249q13-2 8 9q-3 6-10 4" fill="none" stroke="#57473f" stroke-width="3"/>
+  <path d="M599 239q-5-10 3-15m5 15q-4-11 4-17" fill="none" stroke="#fff4df" stroke-width="2" stroke-linecap="round"/>
+</g>
+
+<!-- scattered leaves on the ground -->
+<g fill="#d99a5b"><path d="M165 290q15-12 20 2q-10 13-20-2Z"/><path d="M688 279q14-11 19 2q-9 12-19-2Z"/><path d="M720 301q12-10 15 1q-8 10-15-1Z"/><path d="M291 305q12-10 17 1q-8 11-17-1Z"/></g>
+<g fill="#6a8a61"><path d="M70 285q10-17 17 0q-8 10-17 0Z"/><path d="M908 286q10-17 17 0q-8 10-17 0Z"/></g>
+</svg>
