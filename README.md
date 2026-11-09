@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_anime_musim_gugur_belajar_dan_berkarya.png" alt="Anime-inspired autumn scene: two students studying and relaxing beneath a maple tree at sunset" width="100%" />
+  <img src="./assets/ripan-anime-stable-loop.gif" alt="Ripan — autumn anime study scene with gently falling maple leaves" width="100%" />
 </div>
 
 ---
