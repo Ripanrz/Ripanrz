@@ -138,12 +138,17 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="170" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="Most used programming languages" />
+  <img src="./github-metrics.svg" alt="GitHub metrics for Ripanrz" width="100%" />
 
-  <br />
+</div>
 
-
+<div align="center">
+  <a href="https://github.com/Ripanrz?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ripanrz&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub profile statistics" />
+  </a>
+  <a href="https://github.com/Ripanrz?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripanrz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Most used programming languages" />
+  </a>
 </div>
 
 ### Contribution Activity
@@ -154,10 +159,9 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ripanrz/Ripanrz/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/Ripanrz/Ripanrz/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution graph animation" />
   </picture>
-  <sub>Contribution snake is generated automatically by GitHub Actions.</sub>
 </div>
 
-> GitHub cards are provided by external services and update independently. Counts may differ due to caching, private-contribution visibility, and each service's counting rules.
+> Statistik disediakan oleh GitHub Actions dan layanan kartu eksternal. Pembaruan dapat tertunda karena jadwal workflow atau cache layanan.
 
 ## Let's Connect
 
