@@ -1,13 +1,8 @@
-<div align="center" style="line-height:0">
-  <img src="assets/anime-banner-strip-1.jpg" alt="Anime banner: Ripanrz and two students studying beneath an autumn maple tree at sunset" width="100%" />
-  <img src="assets/anime-banner-strip-2.jpg" alt="" width="100%" />
-  <img src="assets/anime-banner-strip-3.jpg" alt="" width="100%" />
-  <img src="assets/anime-banner-strip-4.jpg" alt="" width="100%" />
+<div align="center">
+  <img src="assets/ripan-anime-hero.jpg" alt="Anime-inspired autumn scene: two students studying and relaxing beneath a maple tree at sunset" width="100%" />
 </div>
-<img src="assets/anime-leaves.svg" alt="Animated falling autumn leaves" width="100%" />
 
 ---
-
 ## About Me
 
 Saya mahasiswa tingkat akhir **Mekatronika dan Kecerdasan Buatan di Universitas Pendidikan Indonesia (UPI)** dengan minat pada perancangan *intelligent systems* yang menghubungkan **AI, data science, embedded systems, IoT, dan industrial automation**.
