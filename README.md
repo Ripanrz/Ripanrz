@@ -23,6 +23,32 @@ Saya tertarik mengerjakan engineering problems secara end-to-end: memahami kebut
 ## Latest Projects
 
 <!-- LATEST-PROJECTS:START -->
+
+### [secure-tiny](https://github.com/Ripanrz/secure-tiny)
+
+Modular SystemVerilog IP core for NIST Ascon-AEAD128 with a fail-closed plaintext-release guard. Includes RTL, KAT-based testbenches, reproducible simulation scripts, and Cyclone V build evidence.
+
+**Tech:** SystemVerilog · ascon · ascon-aead128 · authenticated-encryption · cryptography · cyclone-v  
+**Last push:** 2026-11-09
+
+---
+
+### [Pancaniti-PhysAI_Physics-Constrained-Corrosion-Simulation-System-v1.0](https://github.com/Ripanrz/Pancaniti-PhysAI_Physics-Constrained-Corrosion-Simulation-System-v1.0)
+
+No description provided.
+
+**Tech:** Engineering Project  
+**Last push:** 2026-06-22
+
+---
+
+### [Sistem-Kendali-On-Off-dan-Kecepatan-Kipas-Otomatis-Berbasis-Suhu](https://github.com/Ripanrz/Sistem-Kendali-On-Off-dan-Kecepatan-Kipas-Otomatis-Berbasis-Suhu)
+
+Temperature-Responsive Fan Automation: A closed-loop control system designed for precise thermal regulation. It utilizes PWM-based speed modulation to ensure that cooling power matches environmental demand, providing a robust, hands-free solution for stable temperature maintenance.
+
+**Tech:** Python  
+**Last push:** 2026-06-20
+
 <!-- LATEST-PROJECTS:END -->
 
 ## Technology Stack
