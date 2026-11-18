@@ -1,0 +1,98 @@
+name: Update Latest Projects
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Otomatis cek pembaruan setiap 12 jam
+  workflow_dispatch:       # Bisa dijalankan manual kapan saja lewat tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Repos & Update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Ripanrz
+        run: |
+          python3 - << 'EOF'
+          import os, re, json, urllib.request
+
+          username = os.environ["USERNAME"]
+          token = os.environ["GH_TOKEN"]
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json"
+          }
+
+          # =================================================================
+          # PILIH MODE:
+          # Kosongkan list di bawah [] -> Otomatis ambil 3 repo TERBARU.
+          # Isi dengan 3 nama repo     -> Hanya tampilkan 3 repo PILIHAN ini.
+          # Contoh: ["SECURE-TINY", "nama-repo-2", "nama-repo-3"]
+          SELECTED_REPOS = []
+          # =================================================================
+
+          repos = []
+          if SELECTED_REPOS:
+              for repo_name in SELECTED_REPOS[:3]:
+                  url = f"https://api.github.com/repos/{username}/{repo_name}"
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req) as res:
+                      repos.append(json.loads(res.read().decode()))
+          else:
+              url = f"https://api.github.com/users/{username}/repos?sort=pushed&direction=desc&per_page=15"
+              req = urllib.request.Request(url, headers=headers)
+              with urllib.request.urlopen(req) as res:
+                  all_repos = json.loads(res.read().decode())
+              # Filter agar tidak menampilkan repo profil sendiri dan repo fork
+              repos = [
+                  r for r in all_repos
+                  if r["name"].lower() != username.lower() and not r["fork"]
+              ][:3]
+
+          # Format tampilan agar persis seperti gaya README Anda sebelumnya
+          blocks = []
+          for r in repos:
+              name = r["name"]
+              html_url = r["html_url"]
+              desc = r["description"] or "Deskripsi proyek belum ditambahkan."
+              topics = r.get("topics", [])
+              lang = r.get("language")
+
+              tags = [t for t in topics]
+              if not tags and lang:
+                  tags = [lang]
+              tag_line = " · ".join(tags) if tags else "Engineering Project"
+
+              block = f"### [{name}]({html_url})\n\n{desc}\n\n{tag_line}"
+              blocks.append(block)
+
+          new_content = "\n\n".join(blocks)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"(<!-- PROYEK-TERBARU:START -->).*?(<!-- PROYEK-TERBARU:END -->)"
+          updated = re.sub(
+              pattern,
+              f"\\1\n\n{new_content}\n\n\\2",
+              readme,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          EOF
+
+      - name: Commit & Push perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update 3 proyek terbaru" && git push)
