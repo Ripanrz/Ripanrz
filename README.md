@@ -22,8 +22,8 @@ Saya tertarik mengerjakan engineering problems secara end-to-end: memahami kebut
 
 ## Latest Projects
 
-<!-- PROYEK-TERBARU:START -->
-<!-- PROYEK-TERBARU:END -->
+<!-- LATEST-PROJECTS:START -->
+<!-- LATEST-PROJECTS:END -->
 
 ## Technology Stack
 
