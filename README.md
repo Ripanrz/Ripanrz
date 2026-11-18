@@ -20,13 +20,10 @@ Saya tertarik mengerjakan engineering problems secara end-to-end: memahami kebut
 | **Industrial Automation & OT** | PLC, HMI, instrumentation, industrial communication, control logic, robotics, serta integrasi proses. |
 | **Software & System Engineering** | API development, containerization, test design, system documentation, workflow orchestration, dan deployment. |
 
-## Featured Projects
+## Latest Projects
 
-### SECURE-TINY — Lightweight Hardware Cryptography
-
-Implementasi **ASCON-AEAD128** dalam RTL dengan fokus pada datapath, control FSM, buffering, dan verifikasi fungsional. Alur kerja mencakup testbench, trusted test vectors, serta persiapan sintesis dengan **Intel DE10-Nano sebagai target platform FPGA**.
-
-SystemVerilog · RTL Design · ASCON-AEAD128 · Verification · FPGA
+<!-- PROYEK-TERBARU:START -->
+<!-- PROYEK-TERBARU:END -->
 
 ## Technology Stack
 
