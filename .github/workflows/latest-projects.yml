@@ -1,6 +1,11 @@
 name: Update Latest Projects
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/latest-projects.yml"
   schedule:
     - cron: "17 */12 * * *"
   workflow_dispatch:
