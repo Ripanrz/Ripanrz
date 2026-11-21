@@ -181,14 +181,14 @@ Daftar berikut merangkum software, framework, development tools, dan engineering
 
 Terbuka untuk kolaborasi, diskusi teknis, riset, maupun engineering projects di bidang AI, IoT, embedded systems, dan industrial automation.
 
+![headmaster](https://i.pinimg.com/originals/24/2e/37/242e379f970c22bf30e1689290627058.gif)
+
 <div align="center">
   <a href="mailto:ripanrediansyah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ripan-ripan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/ripanrz/"><img src="https://img.shields.io/badge/Instagram-@ripanrz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/Ripanrz"><img src="https://img.shields.io/badge/GitHub-@Ripanrz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
-
----
 
 <div align="center">
   <sub>Curiosity drives exploration. Engineering turns ideas into systems.</sub>
