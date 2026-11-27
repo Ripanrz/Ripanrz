@@ -29,7 +29,7 @@ Saya tertarik mengerjakan engineering problems secara end-to-end: memahami kebut
 StructuraRAG is a PDF-first preprocessing tool for RAG pipelines. It extracts text, tables, and images, preserves document hierarchy and reading order, and generates structured DOCX/DSL outputs through deterministic parsing with optional AI assistance.
 
 **Tech:** Python  
-**Last push:** 2026-11-26
+**Last push:** 2026-11-27
 
 ---
 
